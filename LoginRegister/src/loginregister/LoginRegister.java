@@ -17,7 +17,7 @@ public class LoginRegister {
         // TODO code application logic here
         RegisterFrame rf = new RegisterFrame();
         rf.setVisible(true);
-        rf.setSize(500,400);
+        rf.setSize(450,300);
     }
     
 }
